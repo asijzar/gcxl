@@ -1,0 +1,1 @@
+g++ -Wno-conversion-null -mwindows -o gl main.cpp gcxl.cpp
